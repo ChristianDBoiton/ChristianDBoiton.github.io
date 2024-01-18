@@ -1,3 +1,1 @@
-theme: jekyll-theme-minimal
-title: Octocat's homepage
-description: Este es mi portafolio
+Este es mi portafolio
